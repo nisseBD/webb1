@@ -1,0 +1,12 @@
+.headerContainer {
+    
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    text-align: center;
+}
+#headerOne {
+    text-align: center;
+}
